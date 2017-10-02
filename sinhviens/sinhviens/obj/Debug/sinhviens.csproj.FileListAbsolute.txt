@@ -1,6 +1,0 @@
-D:\download\Documents\LTHDT(OPP) K16\deadline6\sinhviens\sinhviens\bin\Debug\sinhviens.exe.config
-D:\download\Documents\LTHDT(OPP) K16\deadline6\sinhviens\sinhviens\obj\Debug\sinhviens.csprojResolveAssemblyReference.cache
-D:\download\Documents\LTHDT(OPP) K16\deadline6\sinhviens\sinhviens\bin\Debug\sinhviens.exe
-D:\download\Documents\LTHDT(OPP) K16\deadline6\sinhviens\sinhviens\bin\Debug\sinhviens.pdb
-D:\download\Documents\LTHDT(OPP) K16\deadline6\sinhviens\sinhviens\obj\Debug\sinhviens.exe
-D:\download\Documents\LTHDT(OPP) K16\deadline6\sinhviens\sinhviens\obj\Debug\sinhviens.pdb
